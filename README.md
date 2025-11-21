@@ -1,25 +1,25 @@
-CompTIA Security+ Study Notes
-This repository contains my personal notes, summaries, and key concepts from preparing for the CompTIA Security+ (SY0-701) exam.
+CEH Study Notes
+This repository contains my personal study notes, summaries, and resources from preparing for the EC-Council Certified Ethical Hacker (CEH) exam.
 
 Contents
-Exam domains: Core security principles, risk management, network and host security, identity management, cryptography, and security operations.
+Core topics: Footprinting, scanning, enumeration, vulnerability analysis, system hacking, malware, sniffing, social engineering, web/server hacking, and cryptography.
 
-Cheat sheets: Quick reference tables and summaries.
+Techniques and tools: Command references, practical tips for common attack and defense tools.
+
+Cheat sheets & summaries: Important concepts, acronyms, and quick reference tables.
 
 
 Purpose
-I built this repo to reinforce my own Security+ preparation, and to help others studying for the certification.
-All notes are my personal interpretations, and meant for educational use only.
+I built this repo to organize my own CEH study process and to help others preparing for the exam.
+All notes reflect personal understanding and are for educational use only.
 
-How I Studied
-Broke down each exam domain into core topics.
+My Approach
+Broke the CEH curriculum into clear sections, using resources from the official syllabus, video courses, and labs.
 
-Summarized key facts, acronyms, and important distinctions.
+Summarized essential information for exam review and practical work.
 
-Used practice questions and flashcards for memory and review.
-
-Updated notes as I progressed through study guides and labs.
+Annotated commands and tool examples based on lab experience.
 
 Disclaimer
-This material is for learning and review—please refer to official CompTIA documentation for authoritative content.
-Exam objectives, testing procedures, and recommended study resources may evolve over time.
+These notes are for study and education only—refer to official EC-Council and CEH documentation for complete and current details.
+Ethical hacking should always comply with local laws and professional standards.
